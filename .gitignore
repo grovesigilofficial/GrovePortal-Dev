@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.local
+src/assets/js/config.local.js
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
