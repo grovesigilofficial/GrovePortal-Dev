@@ -2,7 +2,6 @@
 
 let audio;
 
-// Preload soft loop sound
 async function loadSound() {
   if (!audio) {
     audio = new Audio("public/alarm.mp3");
